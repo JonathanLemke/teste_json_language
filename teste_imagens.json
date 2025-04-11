@@ -1,0 +1,68 @@
+[
+  {
+    "word": "Avocado",
+    "translation": "Abacate",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ab/ac/abacate-cke.jpg"
+  },
+  {
+    "word": "Pineapple",
+    "translation": "Abacaxi",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ab/ac/abacaxi-0-cke.jpg"
+  },
+  {
+    "word": "Açai",
+    "translation": "Açaí",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta3-0-cke.jpg"
+  },
+  {
+    "word": "Acerola",
+    "translation": "Acerola",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ac/er/acerola-cke.jpg"
+  },
+  {
+    "word": "Blackberry",
+    "translation": "Amora",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/am/or/amora-cke.jpg"
+  },
+  {
+    "word": "Sugar-apple",
+    "translation": "Anona",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ar/at/araticummelhorar.jpg"
+  },
+  {
+    "word": "Bacaba",
+    "translation": "Bacaba",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ba/ca/bacaba-cke.jpg"
+  },
+  {
+    "word": "Banana",
+    "translation": "Banana",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ba/na/banana-0-cke.jpg"
+  },
+  {
+    "word": "Biribá",
+    "translation": "Biribá",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/bi/ri/biriba-cke.jpg"
+  },
+  {
+    "word": "Cocoa",
+    "translation": "Cacau",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/ca/ca/cacau-cke.jpg"
+  },
+  {
+    "word": "Yellow Mombin",
+    "translation": "Cajá",
+    "type": "fruit",
+    "imageUrl": "https://static.todamateria.com.br/upload/fr/ut/fruta11-cke.jpg"
+  }
+]
