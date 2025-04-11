@@ -1,0 +1,42 @@
+[
+  {
+    "word": "run",
+    "translation": "correr",
+    "type": "verb"
+  },
+  {
+    "word": "house",
+    "translation": "casa",
+    "type": "noun"
+  },
+  {
+    "word": "beautiful",
+    "translation": "bonito",
+    "type": "adjective"
+  },
+  {
+    "word": "quickly",
+    "translation": "rapidamente",
+    "type": "adverb"
+  },
+  {
+    "word": "under",
+    "translation": "sob",
+    "type": "preposition"
+  },
+  {
+    "word": "they",
+    "translation": "eles",
+    "type": "pronoun"
+  },
+  {
+    "word": "to work",
+    "translation": "trabalhar",
+    "type": "verb phrase"
+  },
+  {
+    "word": "in the morning",
+    "translation": "de manhã",
+    "type": "phrase"
+  }
+]
