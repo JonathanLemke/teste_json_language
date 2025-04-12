@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "id": "ficcao-cientifica",
+      "name": {
+        "pt": "Ficção Científica",
+        "en": "Science Fiction",
+        "es": "Ciencia Ficción"
+      }
+    },
+    {
+      "id": "biografias",
+      "name": {
+        "pt": "Biografias",
+        "en": "Biographies",
+        "es": "Biografías"
+      }
+    },
+    {
+      "id": "tecnologia",
+      "name": {
+        "pt": "Tecnologia",
+        "en": "Technology",
+        "es": "Tecnología"
+      }
+    },
+    {
+      "id": "fantasia",
+      "name": {
+        "pt": "Fantasia",
+        "en": "Fantasy",
+        "es": "Fantasía"
+      }
+    },
+    {
+      "id": "autoajuda",
+      "name": {
+        "pt": "Autoajuda",
+        "en": "Self-help",
+        "es": "Autoayuda"
+      }
+    },
+    {
+      "id": "historia",
+      "name": {
+        "pt": "História",
+        "en": "History",
+        "es": "Historia"
+      }
+    }
+  ],
+  "books": [],
+  "config": {
+    "translations": {
+      "pt": {
+        "definitions": {
+          "novel": "Romance: Narrativa longa em prosa que explora personagens e eventos complexos."
+        }
+      },
+      "en": {
+        "definitions": {
+          "novel": "Novel: A long narrative prose that explores complex characters and events."
+        }
+      },
+      "es": {
+        "definitions": {
+          "novel": "Novela: Narrativa larga en prosa que explora personajes y eventos complejos."
+        }
+      }
+    }
+  }
+}
