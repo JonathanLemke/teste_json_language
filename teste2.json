@@ -8,31 +8,7 @@
           "id": "gramatica-inglesa",
           "title": "Gramática Inglesa",
           "color": "#3498DB",
-          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/english-content/main/grammar.md"
-        },
-        {
-          "id": "vocabulario-essencial",
-          "title": "Vocabulário Essencial",
-          "color": "#2ECC71",
-          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/english-content/main/vocabulary.md"
-        },
-        {
-          "id": "expressoes-idiomaticas",
-          "title": "Expressões Idiomáticas",
-          "color": "#E74C3C",
-          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/english-content/main/idioms.md"
-        },
-        {
-          "id": "regras-pronomes",
-          "title": "Regras de Pronomes",
-          "color": "#9B59B6",
-          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/english-content/main/pronouns.md"
-        },
-        {
-          "id": "verbos-irregulares",
-          "title": "Verbos Irregulares",
-          "color": "#F39C12",
-          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/EscuelasCRM/refs/heads/main/README.md"
+          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/gramatica_inglesa.md"
         }
       ]
     }
