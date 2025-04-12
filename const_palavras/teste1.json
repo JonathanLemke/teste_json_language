@@ -1,0 +1,147 @@
+{
+  "config": {
+    "showWordTextWithImage": false,
+    "translations": {
+      "pt": {
+        "buildTheWord": "Construa a palavra:",
+        "hintLabel": "Dica:",
+        "correctWordMsg": "Palavra correta!",
+        "incorrectWordMsg": "Incorreto. A palavra era:"
+      },
+      "en": {
+        "buildTheWord": "Build the word:",
+        "hintLabel": "Hint:",
+        "correctWordMsg": "Word correct!",
+        "incorrectWordMsg": "Incorrect. The word was:"
+      },
+      "es": {
+        "buildTheWord": "Construye la palabra:",
+        "hintLabel": "Pista:",
+        "correctWordMsg": "¡Palabra correcta!",
+        "incorrectWordMsg": "Incorrecto. La palabra era:"
+      }
+    }
+  },
+  "words": [
+    {
+      "word": "house",
+      "hint": "onde se mora",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "happy",
+      "hint": "sentindo alegria",
+      "type": "Adjective",
+      "imageUrl": ""
+    },
+    {
+      "word": "eat",
+      "hint": "ingerir comida",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "computer",
+      "hint": "máquina eletrônica para processar dados",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "beautiful",
+      "hint": "que agrada aos olhos, bonito(a)",
+      "type": "Adjective",
+      "imageUrl": ""
+    },
+    {
+      "word": "run",
+      "hint": "mover-se rapidamente com as pernas",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "book",
+      "hint": "conjunto de folhas impressas",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "friend",
+      "hint": "pessoa com quem se tem afeição",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "water",
+      "hint": "líquido incolor e essencial (H₂O)",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "green",
+      "hint": "cor das folhas das árvores",
+      "type": "Adjective / Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "sleep",
+      "hint": "descansar em estado de inconsciência",
+      "type": "Verb / Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "music",
+      "hint": "arte de combinar sons",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "small",
+      "hint": "de tamanho reduzido, pequeno",
+      "type": "Adjective",
+      "imageUrl": ""
+    },
+    {
+      "word": "write",
+      "hint": "representar ideias com letras",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "school",
+      "hint": "lugar onde se estuda",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "language",
+      "hint": "sistema de comunicação verbal",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "always",
+      "hint": "em todo o tempo, sempre",
+      "type": "Adverb",
+      "imageUrl": ""
+    },
+    {
+      "word": "think",
+      "hint": "formar ideias na mente, pensar",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "family",
+      "hint": "grupo de pessoas com laços de parentesco",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "important",
+      "hint": "que tem grande valor ou significado",
+      "type": "Adjective",
+      "imageUrl": ""
+    }
+  ]
+}
