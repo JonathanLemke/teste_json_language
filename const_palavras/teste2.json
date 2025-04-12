@@ -1,0 +1,176 @@
+{
+  "config": {
+    "showWordTextWithImage": false,
+    "translations": {
+      "pt": {
+        "buildTheWord": "Construa a palavra:",
+        "hintLabel": "Dica:",
+        "correctWordMsg": "Palavra correta!",
+        "incorrectWordMsg": "Incorreto. A palavra era:"
+      },
+      "en": {
+        "buildTheWord": "Build the word:",
+        "hintLabel": "Hint:",
+        "correctWordMsg": "Word correct!",
+        "incorrectWordMsg": "Incorrect. The word was:"
+      },
+      "es": {
+        "buildTheWord": "Construye la palabra:",
+        "hintLabel": "Pista:",
+        "correctWordMsg": "¡Palabra correcta!",
+        "incorrectWordMsg": "Incorrecto. La palabra era:"
+      }
+    },
+    "sidebar": {
+      "title": "Biblioteca de Referência",
+      "items": [
+        {
+          "id": "gramatica-inglesa",
+          "title": "Gramática Inglesa",
+          "color": "#3498DB",
+          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/gramatica_inglesa.md"
+        },
+        {
+          "id": "vocabulario-basico",
+          "title": "Vocabulário Básico",
+          "color": "#2ECC71",
+          "content": "# Vocabulário Básico Inglês\n\n## Saudações\n- Hello - Olá\n- Good morning - Bom dia\n- Good afternoon - Boa tarde\n- Good evening - Boa noite\n- Goodbye - Adeus\n- See you later - Até mais tarde\n\n## Números\n- One - Um\n- Two - Dois\n- Three - Três\n- Four - Quatro\n- Five - Cinco\n\n## Dias da Semana\n- Monday - Segunda-feira\n- Tuesday - Terça-feira\n- Wednesday - Quarta-feira\n- Thursday - Quinta-feira\n- Friday - Sexta-feira\n- Saturday - Sábado\n- Sunday - Domingo\n\n## Cores\n- Red - Vermelho\n- Blue - Azul\n- Green - Verde\n- Yellow - Amarelo\n- Black - Preto\n- White - Branco"
+        },
+        {
+          "id": "dicas-estudo",
+          "title": "Dicas de Estudo",
+          "color": "#E74C3C",
+          "content": "# Dicas para Estudar Inglês\n\n## Estudo Diário\nDedique pelo menos 20 minutos por dia ao estudo do inglês. A consistência é mais importante que longas sessões de estudo ocasionais.\n\n## Use Aplicativos\nUtilize aplicativos como Duolingo, Babbel, Memrise ou Anki para complementar seu aprendizado.\n\n## Assistir e Ouvir em Inglês\n- Assista séries e filmes com legendas em inglês\n- Ouça músicas em inglês e tente entender as letras\n- Escute podcasts em inglês sobre temas do seu interesse\n\n## Prática da Fala\n- Fale sozinho em inglês (sim, isso ajuda!)\n- Encontre um parceiro de conversação online\n- Grave-se falando e ouça para identificar pontos a melhorar\n\n## Leitura\n- Comece com livros infantis ou adaptados para iniciantes\n- Leia notícias em inglês simplificado (BBC Learning English)\n- Use dicionários online como apoio durante a leitura"
+        },
+        {
+          "id": "expressoes-idiomaticas",
+          "title": "Expressões Idiomáticas",
+          "color": "#9B59B6",
+          "content": "# Expressões Idiomáticas em Inglês\n\n## Expressões Comuns\n\n### Break a leg\n**Significado**: Boa sorte\n**Exemplo**: \"You have an interview tomorrow? Break a leg!\"\n\n### Piece of cake\n**Significado**: Muito fácil\n**Exemplo**: \"The exam was a piece of cake.\"\n\n### It's raining cats and dogs\n**Significado**: Está chovendo muito forte\n**Exemplo**: \"Don't go outside, it's raining cats and dogs!\"\n\n### Hit the books\n**Significado**: Estudar intensamente\n**Exemplo**: \"I can't go out tonight, I need to hit the books.\"\n\n### Under the weather\n**Significado**: Sentir-se doente\n**Exemplo**: \"She's feeling under the weather today.\"\n\n### Cost an arm and a leg\n**Significado**: Muito caro\n**Exemplo**: \"That new smartphone costs an arm and a leg.\"\n\n### The ball is in your court\n**Significado**: É sua vez de agir/decidir\n**Exemplo**: \"I've sent my proposal, now the ball is in your court.\""
+        }
+      ]
+    }
+  },
+  "words": [
+    {
+      "word": "house",
+      "hint": "onde se mora",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "happy",
+      "hint": "sentindo alegria",
+      "type": "Adjective",
+      "imageUrl": ""
+    },
+    {
+      "word": "eat",
+      "hint": "ingerir comida",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "computer",
+      "hint": "máquina eletrônica para processar dados",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "beautiful",
+      "hint": "que agrada aos olhos, bonito(a)",
+      "type": "Adjective",
+      "imageUrl": ""
+    },
+    {
+      "word": "run",
+      "hint": "mover-se rapidamente com as pernas",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "book",
+      "hint": "conjunto de folhas impressas",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "friend",
+      "hint": "pessoa com quem se tem afeição",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "water",
+      "hint": "líquido incolor e essencial (H₂O)",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "green",
+      "hint": "cor das folhas das árvores",
+      "type": "Adjective / Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "sleep",
+      "hint": "descansar em estado de inconsciência",
+      "type": "Verb / Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "music",
+      "hint": "arte de combinar sons",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "small",
+      "hint": "de tamanho reduzido, pequeno",
+      "type": "Adjective",
+      "imageUrl": ""
+    },
+    {
+      "word": "write",
+      "hint": "representar ideias com letras",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "school",
+      "hint": "lugar onde se estuda",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "language",
+      "hint": "sistema de comunicação verbal",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "always",
+      "hint": "em todo o tempo, sempre",
+      "type": "Adverb",
+      "imageUrl": ""
+    },
+    {
+      "word": "think",
+      "hint": "formar ideias na mente, pensar",
+      "type": "Verb",
+      "imageUrl": ""
+    },
+    {
+      "word": "family",
+      "hint": "grupo de pessoas com laços de parentesco",
+      "type": "Noun",
+      "imageUrl": ""
+    },
+    {
+      "word": "important",
+      "hint": "que tem grande valor ou significado",
+      "type": "Adjective",
+      "imageUrl": ""
+    }
+  ]
+}
