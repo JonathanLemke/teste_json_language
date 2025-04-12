@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": "ficcao-cientifica",
+      "name": {
+        "pt": "Ficção Científica",
+        "en": "Science Fiction",
+        "es": "Ciencia Ficción"
+      }
+    }
+  ],
+  "books": [
+    {
+      "title": {
+        "pt": "Neuromancer",
+        "en": "Neuromancer",
+        "es": "Neuromante"
+      },
+      "author": {
+        "pt": "William Gibson",
+        "en": "William Gibson",
+        "es": "William Gibson"
+      },
+      "description": {
+        "pt": "Um romance cyberpunk revolucionário que definiu o gênero. A história segue Case, um cowboy do ciberespaço, em uma jornada alucinante através de um futuro distópico onde tecnologia e humanidade se misturam de maneiras imprevisíveis.",
+        "en": "A groundbreaking cyberpunk novel that defined the genre. The story follows Case, a cyberspace cowboy, on a hallucinatory journey through a dystopian future where technology and humanity intertwine in unpredictable ways.",
+        "es": "Una novela cyberpunk revolucionaria que definió el género. La historia sigue a Case, un vaquero del ciberespacio, en un viaje alucinante a través de un futuro distópico donde la tecnología y la humanidad se entrelazan de formas imprevisibles."
+      },
+      "categoryId": "ficcao-cientifica",
+      "imageUrl": "https://static.wixstatic.com/media/31a549_7dffb191bffa440686e5a148b8e042d9~mv2.jpg/v1/fill/w_500,h_750,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31a549_7dffb191bffa440686e5a148b8e042d9~mv2.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    }
+  ],
+  "config": {
+    "translations": {
+      "pt": {
+        "definitions": {
+          "novel": "Romance: Narrativa longa em prosa que explora personagens e eventos complexos."
+        }
+      },
+      "en": {
+        "definitions": {
+          "novel": "Novel: A long narrative prose that explores complex characters and events."
+        }
+      },
+      "es": {
+        "definitions": {
+          "novel": "Novela: Narrativa larga en prosa que explora personajes y eventos complejos."
+        }
+      }
+    }
+  }
+}
