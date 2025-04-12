@@ -1,0 +1,297 @@
+{
+  "categories": [
+    {
+      "id": "ficcao-cientifica",
+      "name": {
+        "pt": "Ficção Científica",
+        "en": "Science Fiction",
+        "es": "Ciencia Ficción"
+      }
+    },
+    {
+      "id": "biografias",
+      "name": {
+        "pt": "Biografias",
+        "en": "Biographies",
+        "es": "Biografías"
+      }
+    },
+    {
+      "id": "tecnologia",
+      "name": {
+        "pt": "Tecnologia",
+        "en": "Technology",
+        "es": "Tecnología"
+      }
+    },
+    {
+      "id": "fantasia",
+      "name": {
+        "pt": "Fantasia",
+        "en": "Fantasy",
+        "es": "Fantasía"
+      }
+    },
+    {
+      "id": "autoajuda",
+      "name": {
+        "pt": "Autoajuda",
+        "en": "Self-help",
+        "es": "Autoayuda"
+      }
+    },
+    {
+      "id": "historia",
+      "name": {
+        "pt": "História",
+        "en": "History",
+        "es": "Historia"
+      }
+    }
+  ],
+  "books": [
+    {
+      "title": {
+        "pt": "Neuromancer",
+        "en": "Neuromancer",
+        "es": "Neuromante"
+      },
+      "author": {
+        "pt": "William Gibson",
+        "en": "William Gibson",
+        "es": "William Gibson"
+      },
+      "description": {
+        "pt": "Um romance cyberpunk revolucionário que definiu o gênero.",
+        "en": "A groundbreaking cyberpunk novel that defined the genre.",
+        "es": "Una novela cyberpunk revolucionaria que definió el género."
+      },
+      "categoryId": "ficcao-cientifica",
+      "imageUrl": "https://static.wixstatic.com/media/31a549_7dffb191bffa440686e5a148b8e042d9~mv2.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Fundação", "en": "Foundation", "es": "Fundación" },
+      "author": { "pt": "Isaac Asimov", "en": "Isaac Asimov", "es": "Isaac Asimov" },
+      "description": {
+        "pt": "Uma saga épica sobre o futuro da humanidade.",
+        "en": "An epic saga about humanity’s future.",
+        "es": "Una saga épica sobre el futuro de la humanidad."
+      },
+      "categoryId": "ficcao-cientifica",
+      "imageUrl": "https://covers.openlibrary.org/b/id/240727-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Duna", "en": "Dune", "es": "Duna" },
+      "author": { "pt": "Frank Herbert", "en": "Frank Herbert", "es": "Frank Herbert" },
+      "description": {
+        "pt": "A luta pelo controle de um planeta desértico.",
+        "en": "The struggle for control of a desert planet.",
+        "es": "La lucha por el control de un planeta desértico."
+      },
+      "categoryId": "ficcao-cientifica",
+      "imageUrl": "https://covers.openlibrary.org/b/id/9154146-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Steve Jobs", "en": "Steve Jobs", "es": "Steve Jobs" },
+      "author": { "pt": "Walter Isaacson", "en": "Walter Isaacson", "es": "Walter Isaacson" },
+      "description": {
+        "pt": "A biografia definitiva do fundador da Apple.",
+        "en": "The definitive biography of Apple’s founder.",
+        "es": "La biografía definitiva del fundador de Apple."
+      },
+      "categoryId": "biografias",
+      "imageUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Eu Sou Malala", "en": "I Am Malala", "es": "Yo Soy Malala" },
+      "author": { "pt": "Malala Yousafzai", "en": "Malala Yousafzai", "es": "Malala Yousafzai" },
+      "description": {
+        "pt": "A luta de uma jovem paquistanesa pela educação.",
+        "en": "A young Pakistani girl’s fight for education.",
+        "es": "La lucha de una joven paquistaní por la educación."
+      },
+      "categoryId": "biografias",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8217891-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Lula", "en": "Lula", "es": "Lula" },
+      "author": { "pt": "Fernando Morais", "en": "Fernando Morais", "es": "Fernando Morais" },
+      "description": {
+        "pt": "A trajetória do ex-presidente brasileiro.",
+        "en": "The journey of Brazil’s former president.",
+        "es": "La trayectoria del expresidente brasileño."
+      },
+      "categoryId": "biografias",
+      "imageUrl": "https://covers.openlibrary.org/b/id/10958371-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Clean Code", "en": "Clean Code", "es": "Código Limpio" },
+      "author": { "pt": "Robert C. Martin", "en": "Robert C. Martin", "es": "Robert C. Martin" },
+      "description": {
+        "pt": "Práticas para escrever código limpo e eficiente.",
+        "en": "Practices for writing clean, efficient code.",
+        "es": "Prácticas para escribir código limpio y eficiente."
+      },
+      "categoryId": "tecnologia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/7122246-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "A Cabeça do Programador", "en": "The Pragmatic Programmer", "es": "El Programador Pragmático" },
+      "author": { "pt": "Andy Hunt", "en": "Andy Hunt", "es": "Andy Hunt" },
+      "description": {
+        "pt": "Reflexões e práticas para programadores.",
+        "en": "Reflections and practices for programmers.",
+        "es": "Reflexiones y prácticas para programadores."
+      },
+      "categoryId": "tecnologia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/10350382-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Design de Interação", "en": "Interaction Design", "es": "Diseño de Interacción" },
+      "author": { "pt": "Helen Sharp", "en": "Helen Sharp", "es": "Helen Sharp" },
+      "description": {
+        "pt": "Criando experiências eficazes de usuário.",
+        "en": "Creating effective user experiences.",
+        "es": "Creando experiencias efectivas de usuario."
+      },
+      "categoryId": "tecnologia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/9357293-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "O Hobbit", "en": "The Hobbit", "es": "El Hobbit" },
+      "author": { "pt": "J.R.R. Tolkien", "en": "J.R.R. Tolkien", "es": "J.R.R. Tolkien" },
+      "description": {
+        "pt": "A aventura de Bilbo Bolseiro pela Terra Média.",
+        "en": "Bilbo Baggins’ adventure through Middle-earth.",
+        "es": "La aventura de Bilbo Bolsón por la Tierra Media."
+      },
+      "categoryId": "fantasia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8108693-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Harry Potter", "en": "Harry Potter", "es": "Harry Potter" },
+      "author": { "pt": "J.K. Rowling", "en": "J.K. Rowling", "es": "J.K. Rowling" },
+      "description": {
+        "pt": "O jovem bruxo e seus anos em Hogwarts.",
+        "en": "The young wizard and his years at Hogwarts.",
+        "es": "El joven mago y sus años en Hogwarts."
+      },
+      "categoryId": "fantasia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/7884866-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Eragon", "en": "Eragon", "es": "Eragon" },
+      "author": { "pt": "Christopher Paolini", "en": "Christopher Paolini", "es": "Christopher Paolini" },
+      "description": {
+        "pt": "A jornada de um jovem e seu dragão.",
+        "en": "A boy’s journey with his dragon.",
+        "es": "La travesía de un joven con su dragón."
+      },
+      "categoryId": "fantasia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8054084-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "O Poder do Hábito", "en": "The Power of Habit", "es": "El Poder del Hábito" },
+      "author": { "pt": "Charles Duhigg", "en": "Charles Duhigg", "es": "Charles Duhigg" },
+      "description": {
+        "pt": "Como hábitos moldam nossa vida.",
+        "en": "How habits shape our lives.",
+        "es": "Cómo los hábitos moldean nuestra vida."
+      },
+      "categoryId": "autoajuda",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8784409-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "A Sutil Arte de Ligar o F...", "en": "The Subtle Art of Not Giving a F*", "es": "El Sutil Arte de que te Importe un C*" },
+      "author": { "pt": "Mark Manson", "en": "Mark Manson", "es": "Mark Manson" },
+      "description": {
+        "pt": "Um guia para viver sem se preocupar demais.",
+        "en": "A guide to living without over-worrying.",
+        "es": "Una guía para vivir sin preocuparse demasiado."
+      },
+      "categoryId": "autoajuda",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8424241-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Desperte Seu Gigante Interior", "en": "Awaken the Giant Within", "es": "Despierta al Gigante que Llevas Dentro" },
+      "author": { "pt": "Tony Robbins", "en": "Tony Robbins", "es": "Tony Robbins" },
+      "description": {
+        "pt": "Transforme sua vida com decisões poderosas.",
+        "en": "Transform your life with powerful decisions.",
+        "es": "Transforma tu vida con decisiones poderosas."
+      },
+      "categoryId": "autoajuda",
+      "imageUrl": "https://covers.openlibrary.org/b/id/9589482-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "História do Brasil", "en": "History of Brazil", "es": "Historia de Brasil" },
+      "author": { "pt": "Boris Fausto", "en": "Boris Fausto", "es": "Boris Fausto" },
+      "description": {
+        "pt": "A trajetória do Brasil desde a colonização.",
+        "en": "Brazil’s journey from colonization.",
+        "es": "La trayectoria de Brasil desde la colonización."
+      },
+      "categoryId": "historia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/6943011-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "Breve História da Humanidade", "en": "Sapiens", "es": "Sapiens" },
+      "author": { "pt": "Yuval Harari", "en": "Yuval Harari", "es": "Yuval Harari" },
+      "description": {
+        "pt": "Uma jornada pela história da humanidade.",
+        "en": "A journey through human history.",
+        "es": "Un recorrido por la historia humana."
+      },
+      "categoryId": "historia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/8371116-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    },
+    {
+      "title": { "pt": "1499", "en": "1499", "es": "1499" },
+      "author": { "pt": "Laurentino Gomes", "en": "Laurentino Gomes", "es": "Laurentino Gomes" },
+      "description": {
+        "pt": "Os eventos que precederam a chegada dos portugueses ao Brasil.",
+        "en": "Events that preceded the Portuguese arrival in Brazil.",
+        "es": "Los eventos que precedieron la llegada de los portugueses a Brasil."
+      },
+      "categoryId": "historia",
+      "imageUrl": "https://covers.openlibrary.org/b/id/10502661-L.jpg",
+      "accessUrl": "file:///F:/Projects/vocabulary-quiz-html/html6-separados/index6.html?json-url=https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/organizado/html6.json&language=en"
+    }
+  ],
+  "config": {
+    "translations": {
+      "pt": {
+        "definitions": {
+          "novel": "Romance: Narrativa longa em prosa que explora personagens e eventos complexos."
+        }
+      },
+      "en": {
+        "definitions": {
+          "novel": "Novel: A long narrative prose that explores complex characters and events."
+        }
+      },
+      "es": {
+        "definitions": {
+          "novel": "Novela: Narrativa larga en prosa que explora personajes y eventos complejos."
+        }
+      }
+    }
+  }
+}
