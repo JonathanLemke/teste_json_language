@@ -89,7 +89,6 @@
       "word": "Run",
       "translation": "correr",
       "type": "verb",
-      "imageUrl": "https://example.com/images/run.jpg",
       "example": "She runs every morning.",
       "difficulty": "medium"
     },
@@ -97,7 +96,6 @@
       "word": "Jump",
       "translation": "pular",
       "type": "verb",
-      "imageUrl": "https://example.com/images/jump.jpg",
       "example": "The children jump on the trampoline.",
       "difficulty": "medium"
     },
@@ -105,7 +103,6 @@
       "word": "Walk",
       "translation": "andar",
       "type": "verb",
-      "imageUrl": "https://example.com/images/walk.jpg",
       "example": "We walk to school together.",
       "difficulty": "easy"
     },
@@ -113,7 +110,6 @@
       "word": "Book",
       "translation": "livro",
       "type": "noun",
-      "imageUrl": "https://example.com/images/book.jpg",
       "example": "I'm reading an interesting book.",
       "difficulty": "medium"
     },
@@ -121,7 +117,6 @@
       "word": "Car",
       "translation": "carro",
       "type": "noun",
-      "imageUrl": "https://example.com/images/car.jpg",
       "example": "My car is parked outside.",
       "difficulty": "medium"
     },
@@ -129,7 +124,6 @@
       "word": "Beautiful",
       "translation": "bonito",
       "type": "adjective",
-      "imageUrl": "https://example.com/images/beautiful.jpg",
       "example": "She has a beautiful garden.",
       "difficulty": "hard"
     },
@@ -137,7 +131,6 @@
       "word": "House",
       "translation": "casa",
       "type": "noun",
-      "imageUrl": "https://source.unsplash.com/300x200/?house",
       "example": "They live in a big house.",
       "difficulty": "medium"
     },
@@ -145,7 +138,6 @@
       "word": "Quickly",
       "translation": "rapidamente",
       "type": "adverb",
-      "imageUrl": "https://source.unsplash.com/300x200/?quickly",
       "example": "He finished his work quickly.",
       "difficulty": "easy"
     },
@@ -153,7 +145,6 @@
       "word": "Under",
       "translation": "sob",
       "type": "preposition",
-      "imageUrl": "https://source.unsplash.com/300x200/?under",
       "example": "The cat is hiding under the table.",
       "difficulty": "medium"
     },
@@ -161,7 +152,6 @@
       "word": "They",
       "translation": "eles",
       "type": "pronoun",
-      "imageUrl": "https://source.unsplash.com/300x200/?they",
       "example": "They are coming to the party tonight.",
       "difficulty": "hard"
     },
@@ -169,7 +159,6 @@
       "word": "To work",
       "translation": "trabalhar",
       "type": "verb phrase",
-      "imageUrl": "https://source.unsplash.com/300x200/?to%20work",
       "example": "I need to work late tonight.",
       "difficulty": "easy"
     },
@@ -177,7 +166,6 @@
       "word": "In the morning",
       "translation": "de manhã",
       "type": "phrase",
-      "imageUrl": "https://source.unsplash.com/300x200/?in%20the%20morning",
       "example": "I like to exercise in the morning.",
       "difficulty": "medium"
     }
