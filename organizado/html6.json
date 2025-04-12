@@ -1,0 +1,185 @@
+{
+  "config": {
+    "showWordTextWithImage": true,
+    "sidebar": {
+      "title": "Biblioteca de Referência",
+      "items": [
+        {
+          "id": "gramatica-inglesa",
+          "title": "Gramática Inglesa",
+          "color": "#3498DB",
+          "contentUrl": "https://raw.githubusercontent.com/JonathanLemke/teste_json_language/refs/heads/main/gramatica_inglesa.md"
+        },
+        {
+          "id": "vocabulario-basico",
+          "title": "Vocabulário Básico",
+          "color": "#2ECC71",
+          "content": "# Vocabulário Básico Inglês\n\n## Saudações\n- Hello - Olá\n- Good morning - Bom dia\n- Good afternoon - Boa tarde\n- Good evening - Boa noite\n- Goodbye - Adeus\n- See you later - Até mais tarde\n\n## Números\n- One - Um\n- Two - Dois\n- Three - Três\n- Four - Quatro\n- Five - Cinco\n\n## Dias da Semana\n- Monday - Segunda-feira\n- Tuesday - Terça-feira\n- Wednesday - Quarta-feira\n- Thursday - Quinta-feira\n- Friday - Sexta-feira\n- Saturday - Sábado\n- Sunday - Domingo\n\n## Cores\n- Red - Vermelho\n- Blue - Azul\n- Green - Verde\n- Yellow - Amarelo\n- Black - Preto\n- White - Branco"
+        },
+        {
+          "id": "dicas-estudo",
+          "title": "Dicas de Estudo",
+          "color": "#E74C3C",
+          "content": "# Dicas para Estudar Inglês\n\n## Estudo Diário\nDedique pelo menos 20 minutos por dia ao estudo do inglês. A consistência é mais importante que longas sessões de estudo ocasionais.\n\n## Use Aplicativos\nUtilize aplicativos como Duolingo, Babbel, Memrise ou Anki para complementar seu aprendizado.\n\n## Assistir e Ouvir em Inglês\n- Assista séries e filmes com legendas em inglês\n- Ouça músicas em inglês e tente entender as letras\n- Escute podcasts em inglês sobre temas do seu interesse\n\n## Prática da Fala\n- Fale sozinho em inglês (sim, isso ajuda!)\n- Encontre um parceiro de conversação online\n- Grave-se falando e ouça para identificar pontos a melhorar\n\n## Leitura\n- Comece com livros infantis ou adaptados para iniciantes\n- Leia notícias em inglês simplificado (BBC Learning English)\n- Use dicionários online como apoio durante a leitura"
+        },
+        {
+          "id": "expressoes-idiomaticas",
+          "title": "Expressões Idiomáticas",
+          "color": "#9B59B6",
+          "content": "# Expressões Idiomáticas em Inglês\n\n## Expressões Comuns\n\n### Break a leg\n**Significado**: Boa sorte\n**Exemplo**: \"You have an interview tomorrow? Break a leg!\"\n\n### Piece of cake\n**Significado**: Muito fácil\n**Exemplo**: \"The exam was a piece of cake.\"\n\n### It's raining cats and dogs\n**Significado**: Está chovendo muito forte\n**Exemplo**: \"Don't go outside, it's raining cats and dogs!\"\n\n### Hit the books\n**Significado**: Estudar intensamente\n**Exemplo**: \"I can't go out tonight, I need to hit the books.\"\n\n### Under the weather\n**Significado**: Sentir-se doente\n**Exemplo**: \"She's feeling under the weather today.\"\n\n### Cost an arm and a leg\n**Significado**: Muito caro\n**Exemplo**: \"That new smartphone costs an arm and a leg.\"\n\n### The ball is in your court\n**Significado**: É sua vez de agir/decidir\n**Exemplo**: \"I've sent my proposal, now the ball is in your court.\""
+        }
+      ]
+    },
+    "translations": {
+      "pt": {
+        "definitions": {
+          "verb": "Verbo: Palavra que indica uma ação, estado ou ocorrência.",
+          "noun": "Substantivo: Palavra que nomeia coisas, pessoas, lugares, sentimentos ou ideias.",
+          "adjective": "Adjetivo: Palavra que modifica um substantivo, indicando qualidade, estado ou característica.",
+          "adverb": "Advérbio: Palavra que modifica um verbo, adjetivo ou outro advérbio, indicando modo, tempo, lugar, etc.",
+          "preposition": "Preposição: Palavra que relaciona elementos dentro de uma sentença, indicando localização, direção, tempo, etc.",
+          "pronoun": "Pronome: Palavra que substitui um substantivo.",
+          "verb phrase": "Locução Verbal: Grupo de palavras baseado em um verbo que funciona como uma unidade.",
+          "phrase": "Frase: Grupo de palavras que funcionam juntas como uma unidade na sentença."
+        },
+        "difficultyLevels": {
+          "easy": "Fácil",
+          "medium": "Médio",
+          "hard": "Difícil"
+        }
+      },
+      "en": {
+        "definitions": {
+          "verb": "Verb: A word that indicates an action, state, or occurrence.",
+          "noun": "Noun: A word that names a thing, person, place, feeling, or idea.",
+          "adjective": "Adjective: A word that modifies a noun, indicating quality, state, or characteristic.",
+          "adverb": "Adverb: A word that modifies a verb, adjective, or other adverb, indicating manner, time, place, etc.",
+          "preposition": "Preposition: A word that relates elements within a sentence, indicating location, direction, time, etc.",
+          "pronoun": "Pronoun: A word that substitutes a noun.",
+          "verb phrase": "Verb Phrase: A group of words based on a verb that functions as a unit.",
+          "phrase": "Phrase: A group of words that function together as a unit in a sentence."
+        },
+        "difficultyLevels": {
+          "easy": "Easy",
+          "medium": "Medium",
+          "hard": "Hard"
+        }
+      },
+      "es": {
+        "definitions": {
+          "verb": "Verbo: Palabra que indica una acción, estado u ocurrencia.",
+          "noun": "Sustantivo: Palabra que nombra cosas, personas, lugares, sentimientos o ideas.",
+          "adjective": "Adjetivo: Palabra que modifica un sustantivo, indicando calidad, estado o característica.",
+          "adverb": "Adverbio: Palabra que modifica un verbo, adjetivo u otro adverbio, indicando modo, tiempo, lugar, etc.",
+          "preposition": "Preposición: Palabra que relaciona elementos dentro de una oración, indicando ubicación, dirección, tiempo, etc.",
+          "pronoun": "Pronombre: Palabra que sustituye a un sustantivo.",
+          "verb phrase": "Frase Verbal: Grupo de palabras basado en un verbo que funciona como una unidad.",
+          "phrase": "Frase: Grupo de palabras que funcionan juntas como una unidad en la oración."
+        },
+        "difficultyLevels": {
+          "easy": "Fácil",
+          "medium": "Medio",
+          "hard": "Difícil"
+        }
+      }
+    }
+  },
+  "words": [
+    {
+      "word": "Run",
+      "translation": "correr",
+      "type": "verb",
+      "imageUrl": "https://example.com/images/run.jpg",
+      "example": "She runs every morning.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jump",
+      "translation": "pular",
+      "type": "verb",
+      "imageUrl": "https://example.com/images/jump.jpg",
+      "example": "The children jump on the trampoline.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Walk",
+      "translation": "andar",
+      "type": "verb",
+      "imageUrl": "https://example.com/images/walk.jpg",
+      "example": "We walk to school together.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Book",
+      "translation": "livro",
+      "type": "noun",
+      "imageUrl": "https://example.com/images/book.jpg",
+      "example": "I'm reading an interesting book.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Car",
+      "translation": "carro",
+      "type": "noun",
+      "imageUrl": "https://example.com/images/car.jpg",
+      "example": "My car is parked outside.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beautiful",
+      "translation": "bonito",
+      "type": "adjective",
+      "imageUrl": "https://example.com/images/beautiful.jpg",
+      "example": "She has a beautiful garden.",
+      "difficulty": "hard"
+    },
+    {
+      "word": "House",
+      "translation": "casa",
+      "type": "noun",
+      "imageUrl": "https://source.unsplash.com/300x200/?house",
+      "example": "They live in a big house.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quickly",
+      "translation": "rapidamente",
+      "type": "adverb",
+      "imageUrl": "https://source.unsplash.com/300x200/?quickly",
+      "example": "He finished his work quickly.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Under",
+      "translation": "sob",
+      "type": "preposition",
+      "imageUrl": "https://source.unsplash.com/300x200/?under",
+      "example": "The cat is hiding under the table.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "They",
+      "translation": "eles",
+      "type": "pronoun",
+      "imageUrl": "https://source.unsplash.com/300x200/?they",
+      "example": "They are coming to the party tonight.",
+      "difficulty": "hard"
+    },
+    {
+      "word": "To work",
+      "translation": "trabalhar",
+      "type": "verb phrase",
+      "imageUrl": "https://source.unsplash.com/300x200/?to%20work",
+      "example": "I need to work late tonight.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "In the morning",
+      "translation": "de manhã",
+      "type": "phrase",
+      "imageUrl": "https://source.unsplash.com/300x200/?in%20the%20morning",
+      "example": "I like to exercise in the morning.",
+      "difficulty": "medium"
+    }
+  ]
+}
