@@ -1,0 +1,205 @@
+{
+  "config": {
+    "showWordTextWithImage": true,
+    "translations": {
+      "pt": {
+        "difficultyLevels": {
+          "easy": "Fácil",
+          "medium": "Médio",
+          "hard": "Difícil"
+        }
+      },
+      "en": {
+        "difficultyLevels": {
+          "easy": "Easy",
+          "medium": "Medium",
+          "hard": "Hard"
+        }
+      },
+      "es": {
+        "difficultyLevels": {
+          "easy": "Fácil",
+          "medium": "Medio",
+          "hard": "Difícil"
+        }
+      }
+    }
+  },
+  "words": [
+    {
+      "word": "Explique as diferentes formas de revogação de uma lei e como as leis temporárias e excepcionais se distinguem da regra geral de revogação.",
+      "translation": "A revogação, que é a retirada da vigência de uma lei, pode ser absoluta/total (ab-rogação) ou parcial (derrogação). Quanto ao modo, pode ser expressa (lei indica dispositivos revogados), tácita (lei nova incompatível com anterior) ou global (lei nova regula toda a matéria da anterior). Diferentemente da regra geral em que uma lei só é revogada por outra, as leis temporárias e excepcionais são autorrevogáveis, ou seja, sua vigência cessa automaticamente ao final do prazo ou da circunstância que as determinou, sem necessidade de outra lei para revogá-las.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 8",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quais são os efeitos de uma abolitio criminis em relação a uma sentença condenatória transitada em julgado, e quais efeitos dessa sentença podem persistir?",
+      "translation": "A abolitio criminis retroage para alcançar fatos anteriores, cessando a execução e os efeitos penais da sentença condenatória, mesmo que transitada em julgado. No entanto, os efeitos extrapenais (civis) da condenação persistem, como a possibilidade da sentença servir de título executivo judicial para reparação de danos à vítima. O agente também não recupera cargo ou função perdidos em decorrência da condenação original.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 9",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diferencie abolitio criminis de continuidade normativa típica, focando no destino da conduta anteriormente criminosa em cada um desses institutos.",
+      "translation": "Na abolitio criminis, ocorre uma supressão formal e material da figura criminosa; a conduta deixa de ser crime e não é mais punível. Na continuidade normativa típica, há apenas uma supressão formal da figura criminosa, mas a mesma conduta continua sendo crime, tipificada em outro dispositivo legal; o fato permanece punível, sendo a conduta deslocada para outro tipo penal.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 9 (Tabela)",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Por que uma novatio legis incriminadora não pode retroagir, e qual o fundamento constitucional para essa irretroatividade?",
+      "translation": "Uma novatio legis incriminadora (lei que tipifica um comportamento antes não criminoso) não pode retroagir porque a extra-atividade da lei penal só atua em benefício do réu. Ela só pode atingir situações consumadas após sua entrada em vigor. O fundamento constitucional para essa irretroatividade é o Art. 5º, XL, da Constituição Federal, que estabelece que a lei penal não retroagirá, salvo para beneficiar o réu.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 10",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Em que circunstâncias uma lex mitior (lei posterior mais benigna) pode deixar de ser aplicada, mesmo favorecendo o agente?",
+      "translation": "A lex mitior é sempre retroativa, mesmo que a sentença condenatória tenha transitado em julgado. A única circunstância mencionada no texto em que ela não seria aplicada é se o agente já tiver cumprido integralmente a pena imposta pela lei anterior, pois não haveria mais o que ser modificado em seu benefício no âmbito da execução penal.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 10",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Como a Súmula 711 do STF impacta a aplicação da lex mitior em crimes permanentes ou continuados quando surge uma lei posterior mais grave durante a continuidade ou permanência delitiva?",
+      "translation": "A Súmula 711 do STF estabelece que 'A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência'. Isso significa que, nesses casos, se uma lei mais grave entra em vigor antes da cessação da atividade criminosa, ela será aplicada, mesmo que seja mais severa (novatio legis in pejus), afastando a aplicação de uma lei anterior que poderia ser mais benéfica (lex mitior).",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 11",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Após o trânsito em julgado da sentença condenatória, quem é competente para aplicar uma lei penal posterior mais benéfica, e qual o fundamento legal e sumular para essa competência?",
+      "translation": "Após o trânsito em julgado da sentença condenatória, a competência para aplicação da lei penal posterior mais benéfica é do juízo da Vara das Execuções Criminais. O fundamento para isso é o Art. 66, I, da Lei de Execução Penal, e a Súmula 611 do Supremo Tribunal Federal.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 12",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Qual o posicionamento dos tribunais superiores sobre a aplicabilidade dos preceitos constitucionais de retroatividade da norma penal benéfica e irretroatividade da norma mais grave aos precedentes jurisprudenciais?",
+      "translation": "Os tribunais superiores entendem que os preceitos constitucionais relativos à aplicação retroativa da norma penal benéfica e à irretroatividade da norma mais grave ao acusado (Art. 5º, XL, da CF) são inaplicáveis aos precedentes jurisprudenciais. Ou seja, não há irretroatividade de interpretação jurisprudencial, mesmo que mais gravosa.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 13",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Descreva as duas principais posições doutrinárias sobre a possibilidade de combinação de leis penais (lex tertia) e qual o posicionamento sumulado pelo STJ sobre o tema, exemplificando com as Leis de Drogas.",
+      "translation": "Uma posição (Nelson Hungria) não admite a combinação de leis, pois violaria a separação dos poderes, devendo o juiz aplicar integralmente a lei nova ou a antiga. A outra posição (José Frederico Marques) admite a combinação, pois o juiz transitaria dentro dos limites estabelecidos pelo legislador. O STJ, na Súmula 501, veda a combinação de leis, dispondo que é cabível a aplicação retroativa da Lei 11.343/2006 (nova Lei de Drogas) se, na íntegra, for mais favorável que a Lei 6.368/1976 (antiga), não permitindo a criação de uma terceira lei híbrida.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Páginas 13 e 14",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Explique o conceito de lei penal intermediária e como ela se relaciona com os fenômenos da retroatividade e da ultratividade.",
+      "translation": "Lei penal intermediária é aquela que, embora não fosse a lei vigente ao tempo do fato nem no momento do julgamento, é aplicada por ser mais benéfica ao réu. Ela possui um duplo efeito: é retroativa em relação à lei vigente ao tempo da ação/omissão (lei anterior) e ultrativa em relação à lei vigente ao tempo do julgamento (lei posterior), desde que seja a mais favorável entre todas.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 14",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Como a natureza do complemento de uma lei penal em branco (normalidade vs. anormalidade) influencia a decisão sobre a retroatividade de sua alteração benéfica ao réu?",
+      "translation": "Se o complemento da lei penal em branco se refere a uma situação de normalidade e sua alteração (ou revogação) torna a conduta irrelevante ou menos grave, a retroatividade benéfica é obrigatória. Contudo, se o complemento foi editado para um contexto de anormalidade ou excepcionalidade, sua modificação ou revogação, mesmo benéfica, não retroage, devido à ultratividade das leis penais excepcionais (aplicando-se o Art. 3º do CP por analogia).",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 15",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Qual a consequência jurídica para a punibilidade do agente quando ocorre a revogação do complemento de uma 'lei penal em branco ao avesso'?",
+      "translation": "Na lei penal em branco ao avesso, o preceito primário (descrição da conduta) é completo, mas o preceito secundário (sanção) depende de complementação. A revogação desse complemento inviabiliza a punibilidade, pois, embora a conduta criminosa esteja descrita, não haverá pena a ser imposta devido à lacuna legislativa a seu respeito.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 16",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Qual a principal característica das leis temporárias e excepcionais quanto à sua aplicabilidade após o término de sua vigência, e por que essa característica é considerada fundamental para sua eficácia preventiva?",
+      "translation": "As leis temporárias e excepcionais são ultrativas e autorrevogáveis. Isso significa que os fatos praticados durante sua vigência continuarão a ser punidos mesmo após o fim de sua duração ou cessadas as circunstâncias que as determinaram. Essa característica é fundamental para sua eficácia preventiva, pois, sendo leis de curta duração, se não fossem ultrativas, não teriam aplicabilidade prática e seriam ineficazes.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 16",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Além da unidade do fato e da pluralidade de leis, qual o terceiro requisito essencial para a configuração de um conflito aparente de normas penais, e como ele diferencia este conflito do conflito de leis no tempo?",
+      "translation": "O terceiro requisito essencial é a vigência simultânea de todas as leis penais em conflito na data do fato. Este requisito diferencia o conflito aparente de normas do conflito de leis no tempo, pois neste último, as leis se sucedem, com uma sendo revogada pela outra, não havendo vigência simultânea no momento da decisão.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 17",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diferencie o princípio da especialidade do princípio da subsidiariedade, explicando como cada um resolve o conflito aparente de normas e qual a relação entre lei primária e lei subsidiária.",
+      "translation": "Pelo princípio da especialidade, a norma especial (que contém todos os elementos da geral mais elementos especializantes) afasta a aplicação da norma geral. Pelo princípio da subsidiariedade, a norma principal (mais grave, lei primária) exclui a aplicação da norma subsidiária (menos grave, que descreve um grau menor de ofensa ao mesmo bem jurídico), que só será aplicada se o fato não se amoldar à norma principal. A lei primária define o crime mais grave e a subsidiária o menos grave, atuando esta como 'soldado de reserva'.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 18",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Explique o princípio da consunção e cite duas hipóteses distintas de sua aplicação (por exemplo, crime complexo e crime progressivo).",
+      "translation": "O princípio da consunção estabelece que o fato mais amplo e grave absorve os demais fatos menos amplos e graves que funcionam como etapa normal de sua realização ou como atos anteriores ou posteriores copenados. Duas hipóteses de aplicação são: o crime complexo (ex: roubo, que absorve o furto e a ameaça/lesão) e o crime progressivo (ex: o homicídio absorve a lesão corporal quando esta é meio necessário para matar, e o agente desde o início queria o resultado mais grave).",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 19",
+      "difficulty": "medium"
+    },
+    {
+      "word": "O que caracteriza a 'alternatividade própria' nos tipos mistos alternativos e por que, nesse caso, a prática de múltiplos núcleos contra o mesmo objeto material geralmente não configura concurso de crimes?",
+      "translation": "A alternatividade própria ocorre nos tipos mistos alternativos (de ação múltipla ou conteúdo variado), que possuem dois ou mais verbos (núcleos). Se o agente realizar mais de um desses núcleos contra o mesmo objeto material e no mesmo contexto fático, cometerá um único crime, pois as diversas condutas são consideradas como desdobramentos da mesma ofensa ao bem jurídico tutelado pela norma. Não há concurso de crimes porque o conflito é interno à própria norma.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 20",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Qual teoria sobre o tempo do crime foi adotada pelo Código Penal brasileiro (Art. 4º), e qual a implicação prática dessa teoria para a análise da imputabilidade do agente?",
+      "translation": "O Código Penal brasileiro adotou a Teoria da Atividade (ou da ação) para definir o tempo do crime, conforme seu Art. 4º. Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado. Uma implicação prática é que a imputabilidade do agente é analisada no momento da conduta (ação ou omissão).",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Páginas 21 e 22",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Embora o Código Penal adote a teoria da atividade para definir o tempo do crime, qual teoria é utilizada para determinar o início da contagem do prazo da prescrição da pretensão punitiva (PPP), conforme o Art. 111, I, do CP?",
+      "translation": "Embora o Código Penal adote a teoria da atividade para o tempo do crime, ele excepciona essa regra para fins de prescrição. Para a contagem do início do prazo da prescrição da pretensão punitiva (PPP), o Art. 111, I, do CP adota a Teoria do Resultado, estabelecendo que a prescrição começa a correr 'do dia em que o crime se consumou'.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 22",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Explique o princípio da personalidade (ou nacionalidade) ativa e passiva como fundamentos para a extraterritorialidade da lei penal brasileira.",
+      "translation": "O princípio da personalidade (ou nacionalidade) autoriza a aplicação da lei brasileira a crimes cometidos no estrangeiro. Na personalidade ativa, a lei brasileira aplica-se quando o autor do crime é brasileiro (Art. 7º, I, 'd' e II, 'b' do CP). Na personalidade passiva, a lei brasileira pode ser aplicada quando a vítima do crime cometido por estrangeiro fora do Brasil é brasileira (Art. 7º, § 3º do CP), sob certas condições.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Páginas 23 e 24",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Em que consiste o princípio da justiça universal (ou cosmopolita) e como ele se manifesta no Código Penal brasileiro como um dos fundamentos para a aplicação da lei penal no espaço?",
+      "translation": "O princípio da justiça universal (ou cosmopolita, ou da competência universal) fundamenta-se no dever de solidariedade internacional na repressão de certos delitos cuja punição interessa a todos os povos. Ele se manifesta no Código Penal brasileiro, no Art. 7º, II, 'a', que sujeita à lei brasileira os crimes cometidos no estrangeiro 'que, por tratado ou convenção, o Brasil se obrigou a reprimir'.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 24",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Além do espaço físico terrestre delimitado por fronteiras, o que mais o conceito de território brasileiro abrange para fins de aplicação da lei penal, incluindo o que se considera 'território brasileiro por extensão'?",
+      "translation": "O território brasileiro, para fins penais, abrange: o espaço territorial (incluindo rios, lagos, ilhas e subsolo); o mar territorial (faixa de doze milhas marítimas, incluindo leito e subsolo); a plataforma continental (200 milhas); o espaço aéreo correspondente. Considera-se 'território brasileiro por extensão' (Art. 5º, § 1º, CP): embarcações e aeronaves brasileiras de natureza pública ou a serviço do governo onde quer que se encontrem; e aeronaves e embarcações brasileiras mercantes ou de propriedade privada no espaço aéreo correspondente ou em alto-mar.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Páginas 25 e 26",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Qual teoria o Código Penal brasileiro (Art. 6º) adota para definir o 'lugar do crime', e em que tipo específico de crimes (crimes à distância ou de espaço máximo) essa definição se torna particularmente crucial?",
+      "translation": "O Código Penal brasileiro, em seu Art. 6º, adotou a Teoria da Ubiquidade (ou mista) para definir o lugar do crime, considerando-o tanto o local da ação ou omissão (no todo ou em parte) quanto onde se produziu ou deveria produzir-se o resultado. Essa definição é particularmente crucial para os crimes à distância (ou de espaço máximo), nos quais a conduta ocorre em um país e o resultado em outro.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 26",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cite duas hipóteses de extraterritorialidade incondicionada (Art. 7º, I, CP) e duas condições gerais necessárias para a aplicação da lei brasileira em casos de extraterritorialidade condicionada (Art. 7º, II e §2º, CP).",
+      "translation": "Hipóteses de extraterritorialidade incondicionada: crimes contra a vida ou a liberdade do Presidente da República; crimes contra o patrimônio ou a fé pública da União, DF, Estado, Território, Município, empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo Poder Público. Condições para extraterritorialidade condicionada: entrar o agente no território nacional; ser o fato punível também no país em que foi praticado.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Páginas 28 e 29",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Como se realiza a contagem de prazos no Direito Penal, especificamente em relação ao dia do começo, e qual a implicação se um prazo penal terminar em um sábado, domingo ou feriado?",
+      "translation": "Conforme o Art. 10 do Código Penal, na contagem de prazo penal, 'o dia do começo inclui-se no cômputo do prazo', e contam-se os dias, meses e anos pelo calendário comum. Os prazos penais são improrrogáveis, mesmo que terminem em sábados, domingos ou feriados; nesses casos, o prazo não se estende até o próximo dia útil, devendo ser exercido até o último dia útil anterior, se aplicável, ou considera-se encerrado no dia não útil.",
+      "type": "phrase",
+      "example": "Fonte: Cap 04.pdf, Página 30",
+      "difficulty": "easy"
+    }
+  ]
+}
