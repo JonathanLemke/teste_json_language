@@ -1,7 +1,3 @@
-Unificador de JSON de Perguntas
-Cole cada um dos três JSONs fornecidos nas áreas de texto abaixo:
-
-JSON 1 (contendo "perguntas"):
 {
   "perguntas": [
     {
